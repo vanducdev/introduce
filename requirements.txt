@@ -1,0 +1,14 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - random
+# - time
+# - math
+# - shutil
+# - os
+# - sys
+# - collections
+
+# For development and testing (optional):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
